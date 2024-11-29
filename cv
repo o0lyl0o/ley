@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Your Name</title>
+  </head>
+  <body>
+    <table
+      border="3"
+      width="600px"
+      height="100%"
+      cellpadding="50"
+      align="center"
+    >
+      <tr>
+        <td>
+          <font face="calibri light">
+            <hr width="80%" size="4" color="black" align="left" />
+            <h1>Your Name</h1>
+            <h3><font color="green">Jounior Frontend Developer</font></h3>
+            <p>
+              123 Your Street
+              <br />
+              Your City,ST 12345
+              <br />
+              (123) 456-7890
+              <br />
+              no_reply@example.com
+            </p>
+            <h3><font color="green">Skills</font></h3>
+            <p>
+              HTML, CSS, JavaScript, Accebility, Figma to Design, Responsive Web
+              design, Technical Writing, Presentation
+            </p>
+            <h3><font color="green">Education</font></h3>
+            <p>
+              <font color="blue"><b>School Name, Location - Degree</b></font>
+            </p>
+            <p>
+              Month 20xx to Month 20xx
+              <br />
+              List of exiting things you did at university
+            </p>
+            <h3><font color="green">Experience</font></h3>
+            <p>
+              <font color="blue"
+                ><b>Company Name, Location - Job Title</b></font
+              >
+            </p>
+            <p>Month 20xx to Month 20xx</p>
+            <ul>
+              <li>List of achievements</li>
+              <li>List of achievements</li>
+              <li>List of achievements</li>
+            </ul>
+            <p>Skills: List of skills used or gained at this company</p>
+            <p>
+              <font color="blue"
+                ><b>Company Name, Location - Job Title</b></font
+              >
+            </p>
+            <p>Month 20xx to Month 20xx</p>
+            <ul>
+              <li>List of achievements</li>
+              <li>List of achievements</li>
+              <li>List of achievements</li>
+            </ul>
+            <p>Skills: List of skills used or gained at this company</p>
+            <h3><font color="green">Across the Internet</font></h3>
+            <p>Add your LinkedIn, GitHub profile links</p>
+          </font>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
